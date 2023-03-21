@@ -5,5 +5,4 @@ Model -> is for the logic related to data  that user interact with like (e.g ret
 View  -> is for UI
 Controller -> this is the part deals with the users’ requests for resources from the server
 
-in our website we use mysql database 
-bootstrap ->
+in our website we use mysql database.
